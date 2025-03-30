@@ -6,12 +6,12 @@
 A beginner-friendly guide to install, configure, and troubleshoot Notepad++ on Windows.
 
 ## 📚 Table of Contents
-1. [Installation](#installation)
-2. [Basic Usage](#basic-usage)
+1. [Download and Setup](#Download-and-Setup)
+2. [Create a new file, Save and Export Files and Quick Save](#basic-usage)
 3. [Troubleshooting](#troubleshooting)
 
 ## 🚀 Quick Start
-1. Download the [PDF Guide](docs/PROJECT_Install_setup_use_Notepad++.pdf).
+1. Download the [PDF Guide](https://docs.google.com/document/d/e/2PACX-1vSxkn1Di9b-RrPtHvoLBK7NLc1ULD0P5-J278Vrm-n7KbleJZ-PDiJANaTH2oz-IOM1RjVbbJbw0moB/pub).
 2. Follow Sections 1-3 for setup and troubleshooting.
 
 ## 📖 Sections
