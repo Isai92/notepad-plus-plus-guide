@@ -18,12 +18,10 @@ A beginner-friendly guide to install, configure, and troubleshoot Notepad++ on W
 
 ### 1. Installation
 - Download Notepad++  
-  ![Download Page](Notepad-plus-plus-guide/images/Figure 1.1 Notepad++ Download Page (1).png)
 - Step-by-step installer walkthrough.
 
 ### 2. Basic Usage
 - Create/save files.  
-  ![Save As Dialog](images/figure2-save-as.png)
 
 ### 3. Troubleshooting
 - Fix "Access Denied" errors.  
@@ -32,4 +30,4 @@ A beginner-friendly guide to install, configure, and troubleshoot Notepad++ on W
 ## 📥 How to Contribute
 1. Fork this repository.
 2. Submit a Pull Request for improvements.
-3. Report issues [here](https://github.com/yourusername/notepad-plus-plus-guide/issues).
+3. Report issues
