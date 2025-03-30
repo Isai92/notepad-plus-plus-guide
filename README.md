@@ -18,7 +18,7 @@ A beginner-friendly guide to install, configure, and troubleshoot Notepad++ on W
 
 ### 1. Installation
 - Download Notepad++  
-  ![Download Page](images/figure1-download-page.png)
+  ![Download Page](Notepad-plus-plus-guide/images/Figure 1.1 Notepad++ Download Page (1).png)
 - Step-by-step installer walkthrough.
 
 ### 2. Basic Usage
