@@ -26,8 +26,3 @@ A beginner-friendly guide to install, configure, and troubleshoot Notepad++ on W
 ### 3. Troubleshooting
 - Fix "Access Denied" errors.  
 - Resolve OS architecture mismatches.
-
-## 📥 How to Contribute
-1. Fork this repository.
-2. Submit a Pull Request for improvements.
-3. Report issues
